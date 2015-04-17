@@ -1,8 +1,8 @@
 {
   "name": "payments-federation-builder",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
-  "main": "lib/federation_service.js.js",
+  "main": "lib/federation_service.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

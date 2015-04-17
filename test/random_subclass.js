@@ -1,4 +1,4 @@
-import Federation from '../lib/federation_service'
+import Federation from '..'
 
 class RandomFederation extends Federation {
 
